@@ -1,0 +1,25 @@
+  nav{
+  display: flex;
+  gap: 34px;
+  background-color: rgb(132, 213, 235);
+  color: rgb(193, 231, 38);
+}
+
+li{
+  list-style: none;
+  padding: 23px;
+}
+
+a li {
+  color: blueviolet;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.red{
+  background-color: aqua;
+  color: rgb(73, 134, 240)
+}

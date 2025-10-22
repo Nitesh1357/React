@@ -1,4 +1,4 @@
-import List from './condition rendering/List';
+dhimport List from './condition rendering/List';
 import './App.css'; // Assuming you have some styles in App.css
 import './index.css'; // Assuming you have some global styles in index.css
 import React from 'react';
